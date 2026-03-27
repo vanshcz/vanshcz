@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,9,5,3&text=vansh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=developer%20/%20creator%20/%20bot%20architect&descSize=18&descAlignY=52)
@@ -32,7 +32,6 @@
 
 ### `> whoami`
 
-```javascript
 const vansh = {
   location: "earth",
   focus: "full-stack + bots",
