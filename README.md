@@ -137,7 +137,7 @@
 
 <br>
 
-```js
+
 const vansh = {
     
     pronouns: "he/him",
@@ -171,7 +171,7 @@ const vansh = {
     funFact: "bots are father 🤖"
     
 };
-```
+
 
 </div>
 
@@ -186,8 +186,6 @@ const vansh = {
 
 <br>
 <br>
-
-**`what i'm doing rn`**
 
 <br>
 
