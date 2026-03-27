@@ -1,224 +1,223 @@
-# 🔥 Ultimate Animated GitHub Profile README for @vanshcz
+Markdown
 
-Here's a premium, clean, Gen-Z aesthetic animated README:
-
-```markdown
-<!-- HEADER ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+%F0%9F%91%8B+I'm+Vansh;Full+Stack+Developer+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80;Gen+Z+Developer+%E2%9A%A1)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:EC4899&height=200&section=header&text=VANSH&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=@vanshcz&descSize=20&descAlignY=75"/>
 
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" />
-  </picture>
-</div>
+<!-- ANIMATED WAVE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Developer+%E2%80%A2+Creator+%E2%80%A2+Builder;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-<!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+<!-- SOCIAL BADGES - MINIMAL -->
+<p align="center">
+  <a href="https://vanshcz.online">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vanshcz">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://t.me/itsukiarai">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
+  </a>
+  <a href="https://github.com/vanshcz">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<br>
 
-```yaml
-name: Vansh
-located_in: Planet Earth 🌍
-current_focus: Building the Future
-interests:
-  - Web Development
-  - Open Source
-  - Automation & Bots
-  - UI/UX Design
-fun_fact: "I mass produce bots 🤖"
-motto: "Ship fast, break things, iterate."
-```
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br clear="both">
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- MAIN CONTENT IN 2 COLUMNS -->
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
 
-<!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Arsenal**
+## 🧑‍💻 whoami
 
-<div align="center">
+```js
+const vansh = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "Python", "TypeScript"],
+    askMeAbout: ["web dev", "bots", "tech"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "SCSS"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["FastAPI"]
+        },
+        databases: ["MongoDB", "PostgreSQL"],
+        devOps: ["Docker", "Linux", "Git"]
+    },
+    currentFocus: "Building Cool Stuff",
+    funFact: "Bots Are Father 🤖"
+};
+</td> <td width="50%" valign="top">
+🎯 Currently
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" align="right"/>
+🔭 Working on Epic Projects
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🌱 Learning Everything
 
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+💬 Ask me about Web & Bots
 
-</div>
+⚡ Fun fact: Mass bot producer
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🎧 Coding with Lo-Fi beats
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+🌐 Check my work at vanshcz.online
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshcz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshcz&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-</div>
+</td> </tr> </table><br><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><br><!-- TECH STACK - ANIMATED ICONS --><div align="center">
+💎 Tech Stack
+<br><p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind&theme=dark&perline=9" /> </a> </p><p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github,vscode,linux,vercel&theme=dark&perline=9" /> </a> </p></div><br><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><br><!-- STATS SECTION - CLEAN --><div align="center">
+📊 GitHub Stats
+<br><p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vanshcz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=A855F7&icon_color=A855F7&title_color=fff" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshcz&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=fff" /> </p><!-- ANIMATED CONTRIBUTION SNAKE --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake.svg" /> <img alt="Snake animation" src="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" /> </picture></div><br><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><br><!-- ACTIVITY GRAPH --><div align="center">
+Vansh's github activity graph
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshcz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
-</div>
+</div><br><!-- SPOTIFY - AESTHETIC --><div align="center">
+🎵 Vibes
+spotify-github-profile
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshcz&custom_title=Vansh's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&title_color=6C63FF&area=true&hide_border=true" width="95%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- TROPHY -->
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshcz&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- CONNECT WITH ME -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Connect**
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/vanshcz.online-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vanshcz.online)
-[![Instagram](https://img.shields.io/badge/@vanshcz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vanshcz)
-[![Telegram](https://img.shields.io/badge/@botsarefather-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsukiarai)
-[![GitHub](https://img.shields.io/badge/vanshcz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshcz)
-
-</div>
-
-<!-- SPOTIFY / NOW PLAYING (optional aesthetic block) -->
-<div align="center">
-
-### 🎧 Vibing to code beats...
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6C63FF" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- METRICS -->
-<div align="center">
-
-### 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-```text
-💻 Coding    ████████████████████░░░░░  80%
-🤖 Bots      ████████░░░░░░░░░░░░░░░░░  30%
-☕ Coffee     █████████████████████████  100%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<!-- PROFILE VIEWS & FOOTER -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vanshcz&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-
+</div><br><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><br><!-- FOOTER --><div align="center">
+🤝 Let's Build Something Together
+<br><a href="https://vanshcz.online"> <img src="https://img.shields.io/badge/🌐_vanshcz.online-A855F7?style=for-the-badge" /> </a> <a href="https://t.me/botsarefather"> <img src="https://img.shields.io/badge/💬_@botsarefather-EC4899?style=for-the-badge" /> </a>
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://komarev.com/ghpvc/?username=vanshcz&style=flat-square&color=A855F7&label=Profile+Views" />
+<br><br>
 
-</div>
-```
+<!-- ANIMATED QUOTE --><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+<br><br>
+
+<!-- WAVE FOOTER --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=120&section=footer"/></div> ```
+🎯 Alternative Minimal Version (Super Clean)
+Markdown
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12&height=200&section=header&text=vanshcz&fontSize=70&fontAlign=70&fontAlignY=35&animation=twinkling&fontColor=fff&rotate=13)
+
+<br>
+
+### `< Developer who mass produces bots 🤖 />`
+
+<br>
+
+[![Website](https://img.shields.io/badge/vanshcz.online-black?style=flat-square&logo=safari&logoColor=white)](https://vanshcz.online)
+[![Instagram](https://img.shields.io/badge/@vanshcz-black?style=flat-square&logo=instagram)](https://instagram.com/vanshcz)
+[![Telegram](https://img.shields.io/badge/@botsarefather-black?style=flat-square&logo=telegram)](https://t.me/itsukiarai)
 
 ---
 
-## 🐍 Snake Animation Setup (Required GitHub Action)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,mongodb,docker,git,vscode&theme=dark" />
 
-Create `.github/workflows/snake.yml` in your profile repo:
+---
 
+<img src="https://github-readme-stats.vercel.app/api?username=vanshcz&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshcz&theme=github-dark-blue&hide_border=true&background=00000000" height="150"/>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+<sub>✨ Made with caffeine & late nights ✨</sub>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
+
+</div>
+🔥 Cyberpunk/Neon Version (Trendy)
+Markdown
+
+<div align="center">
+
+<!-- NEON HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a1a2e,100:16213e&height=1&section=header"/>
+███╗ ███╗ █████╗ ███╗ ██╗███████╗██╗ ██╗
+████╗ ████║██╔══██╗████╗ ██║██╔════╝██║ ██║
+██╔████╔██║███████║██╔██╗ ██║███████╗███████║
+██║╚██╔╝██║██╔══██║██║╚██╗██║╚════██║██╔══██║
+██║ ╚═╝ ██║██║ ██║██║ ╚████║███████║██║ ██║
+╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═══╝╚══════╝╚═╝ ╚═╝
+
+text
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=500&lines=%3E+Developer+%7C+Creator+%7C+Bot+Architect;%3E+Welcome+to+my+digital+realm..." alt="Typing SVG" />
+
+<br>
+
+<!-- NEON BUTTONS -->
+<a href="https://vanshcz.online"><img src="https://img.shields.io/badge/🌐_WEBSITE-00F5FF?style=for-the-badge&labelColor=black"/></a>
+<a href="https://instagram.com/vanshcz"><img src="https://img.shields.io/badge/📸_INSTAGRAM-FF006E?style=for-the-badge&labelColor=black"/></a>
+<a href="https://t.me/itsukiarai"><img src="https://img.shields.io/badge/💬_TELEGRAM-8B00FF?style=for-the-badge&labelColor=black"/></a>
+
+---
+
+<table>
+<tr>
+<td>
+
+### ⚡ Quick Stats
 ```yaml
-name: Generate Snake Animation
+Location: Earth
+Role: Full Stack Dev
+Focus: Web & Automation
+Status: Building 24/7
+Coffee: ████████████ 100%
+</td> <td>
+🛠️ Weapons
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,node,python,mongo,docker&perline=4&theme=dark"/></td> </tr> </table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshcz&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&icon_color=00F5FF&title_color=FF006E&text_color=fff"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshcz&theme=synthwave&hide_border=true&background=0d0d0d&ring=00F5FF&fire=FF006E&currStreakLabel=00F5FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshcz&bg_color=0d0d0d&color=00F5FF&line=FF006E&point=fff&area=true&hide_border=true" width="95%"/>
+<sub>「 Built with 💜 by vanshcz 」</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8B00FF,100:00F5FF&height=100&section=footer"/></div> ```
+🐍 Snake Workflow (Same for all)
+Create .github/workflows/snake.yml:
+
+YAML
+
+name: Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: vanshcz
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+            
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-## 📋 Setup Instructions
-
-| Step | Action |
-|------|--------|
-| **1** | Create a repo named `vanshcz` (same as your username) |
-| **2** | Copy the README markdown above into `README.md` |
-| **3** | Create the snake workflow file at `.github/workflows/snake.yml` |
-| **4** | Run the snake workflow manually once (Actions → Generate Snake → Run) |
-| **5** | Customize tech badges to match your actual stack |
-| **6** | *(Optional)* Replace Spotify section with your Spotify ID or remove it |
-| **7** | Push & enjoy 🚀 |
-
----
-
-## 🎨 Color Theme Used
-
-| Element | Color | Hex |
-|---------|-------|-----|
-| Primary | Purple | `#6C63FF` |
-| Accent | Coral Red | `#FF6B6B` |
-| Background | Dark | `#0D1117` |
-| Text | Light Gray | `#C9D1D9` |
-
-This gives you a **clean, dark-mode, purple-themed** profile that looks premium without being spammy. The animations are subtle — typing header, snake contribution graph, activity graph, and the waving footer capsule. Everything is functional and renders natively on GitHub. 🔥
+Which one do you like?
+Version	Vibe
+V1	Purple/Pink gradient, clean modern
+Minimal	Super clean, GitHub native feel
+Cyberpunk	Neon, dark, trendy aesthetic
