@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,50:58a6ff,70:1f6feb,90:161b22,100:0d1117&height=220&section=header&text=vanshcz&fontSize=76&fontColor=e6edf3&fontAlignY=35&desc=Digital%20Architect%20%E2%80%A2%20Code%20Artist%20%E2%80%A2%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
@@ -142,7 +140,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,figma,vscode,vim,arch,bots,markdown&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,figma,vscode,vim,arch,discord,markdown&perline=4&theme=dark" />
 
 </td>
 </tr>
@@ -183,128 +181,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE" alt="Snake" />
-
-<br><br>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/vanshcz/vanshcz/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%94%A5+FEATURED+PROJECTS" alt="Projects" />
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/vanshcz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshcz&repo=vanshcz&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="100%" />
-</a>
-</td>
-<td width="50%">
-<a href="https://vanshcz.online">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshcz&repo=vanshcz.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="100%" />
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8E%B5+VIBES+RIGHT+NOW" alt="Spotify" />
-
-<br><br>
-
-<a href="https://open.spotify.com/user/vanshcz">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vanshcz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=true" width="400" />
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8C%90+CONNECT+WITH+ME" alt="Connect" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<a href="https://vanshcz.online">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="60" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=100&height=20&lines=Website" />
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://instagram.com/vanshcz">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=E4405F&center=true&vCenter=true&width=100&height=20&lines=Instagram" />
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/vanshcz">
-<img src="https://img.icons8.com/fluency/96/github.png" width="60" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=e6edf3&center=true&vCenter=true&width=100&height=20&lines=GitHub" />
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://t.me/itsukiarai">
-<img src="https://img.icons8.com/fluency/96/telegram-app.png" width="60" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=26A5E4&center=true&vCenter=true&width=100&height=20&lines=Telegram" />
-</a>
-</td>
-<td align="center" width="20%">
-<a href="mailto:vanshvx1@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=EA4335&center=true&vCenter=true&width=100&height=20&lines=Gmail" />
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+METRICS+%26+INSIGHTS" alt="Metrics" />
 
 <br><br>
 
 <table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vanshcz&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&layout=compact" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshcz&theme=github_dark&utcOffset=5.5" width="100%" />
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
@@ -377,38 +258,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%88+WEEKLY+DEVELOPMENT" alt="Weekly" />
-
-<br><br>
-
-<!--START_SECTION:waka-->
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&height=25&lines=Python+++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+35.2%25" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=1f6feb&center=true&vCenter=true&width=400&height=25&lines=JavaScript+++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+28.7%25" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1400&color=58a6ff&center=true&vCenter=true&width=400&height=25&lines=TypeScript+++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+18.4%25" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1600&color=1f6feb&center=true&vCenter=true&width=400&height=25&lines=HTML%2FCSS+++++%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+10.1%25" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1800&color=58a6ff&center=true&vCenter=true&width=400&height=25&lines=Others+++++++%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91++7.6%25" />
-
-</td>
-</tr>
-</table>
-
-<!--END_SECTION:waka-->
 
 <br>
 
@@ -562,206 +411,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=9&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=60&height=12&lines=Vim" />
 </td>
 </tr>
-<tr>
-<td align="center" width="16%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=9&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=60&height=12&lines=npm" />
-</td>
-<td align="center" width="16%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=9&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=60&height=12&lines=Yarn" />
-</td>
-<td align="center" width="16%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=9&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=60&height=12&lines=Jest" />
-</td>
-<td align="center" width="16%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=9&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=60&height=12&lines=Postman" />
-</td>
-<td align="center" width="16%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=9&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=60&height=12&lines=Notion" />
-</td>
-<td align="center" width="16%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=9&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=60&height=12&lines=Chrome" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%9D+LATEST+BLOG+POSTS" alt="Blog" />
-
-<br><br>
-
-<table>
-<tr>
-<td>
-
-<!-- BLOG-POST-LIST:START -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=500&height=25&lines=%F0%9F%93%8C+Building+Scalable+Systems+with+Microservices" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=1f6feb&vCenter=true&width=500&height=25&lines=%F0%9F%93%8C+The+Art+of+Clean+Code%3A+Principles+That+Matter" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1400&color=58A6FF&vCenter=true&width=500&height=25&lines=%F0%9F%93%8C+DevOps+Pipeline%3A+From+Zero+to+Production" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1600&color=1f6feb&vCenter=true&width=500&height=25&lines=%F0%9F%93%8C+AI%2FML+in+Production%3A+Real+World+Patterns" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1800&color=58A6FF&vCenter=true&width=500&height=25&lines=%F0%9F%93%8C+Modern+Frontend+Architecture+Guide+2025" />
-
-<!-- BLOG-POST-LIST:END -->
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%E2%8F%B0+CODING+ACTIVITY" alt="Activity" />
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshcz&theme=github_dark" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshcz&theme=github_dark&utcOffset=5.5" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%92%BB+SETUP+%26+GEAR" alt="Setup" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/monitor.png" width="50"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=11&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=120&height=15&lines=Display" />
-<br>
-<sub><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=9&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=120&height=12&lines=4K+Ultra+Wide" /></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/keyboard.png" width="50"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=11&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=120&height=15&lines=Keyboard" />
-<br>
-<sub><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=9&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=120&height=12&lines=Mechanical+75%25" /></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/headphones.png" width="50"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=11&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=120&height=15&lines=Audio" />
-<br>
-<sub><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=9&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=120&height=12&lines=ANC+Headphones" /></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/workstation.png" width="50"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=11&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=120&height=15&lines=Workstation" />
-<br>
-<sub><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=9&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=120&height=12&lines=Custom+Build" /></sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8C%9F+OPEN+SOURCE+CONTRIBUTIONS" alt="OSS" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/pull-request.png" width="50"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=100&height=30&lines=PRs" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=10&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=150&height=12&lines=Pull+Requests+Merged" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/star.png" width="50"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=100&height=30&lines=Stars" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=10&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=150&height=12&lines=Stars+Earned" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/code-fork.png" width="50"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=100&height=30&lines=Forks" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=10&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=150&height=12&lines=Repos+Forked" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%A1+SYSTEM+ARCHITECTURE" alt="Architecture" />
-
-<br><br>
-
-<table>
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=500&color=58A6FF&vCenter=true&width=600&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=700&color=1f6feb&vCenter=true&width=600&height=20&lines=%E2%94%82++%F0%9F%8C%90+Client+%E2%86%92+CDN+%E2%86%92+Load+Balancer++++%E2%94%82" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=900&color=58A6FF&vCenter=true&width=600&height=20&lines=%E2%94%82++%E2%AC%87%EF%B8%8F++++++++++++++++++++++++++++++++++%E2%94%82" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1100&color=1f6feb&vCenter=true&width=600&height=20&lines=%E2%94%82++%E2%9A%A1+API+Gateway+%E2%86%92+Microservices+++++%E2%94%82" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1300&color=58A6FF&vCenter=true&width=600&height=20&lines=%E2%94%82++%E2%AC%87%EF%B8%8F++++++++++++++++++++++++++++++++++%E2%94%82" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1500&color=1f6feb&vCenter=true&width=600&height=20&lines=%E2%94%82++%F0%9F%97%84%EF%B8%8F+Database+%E2%86%92+Cache+%E2%86%92+Queue+++++%E2%94%82" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1700&color=58A6FF&vCenter=true&width=600&height=20&lines=%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" />
-
-</td>
-</tr>
 </table>
 
 <br>
@@ -866,39 +515,51 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%AC+GET+IN+TOUCH" alt="Contact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8C%90+CONNECT+WITH+ME" alt="Connect" />
 
 <br><br>
 
+<table>
+<tr>
+<td align="center" width="20%">
 <a href="https://vanshcz.online">
-<img src="https://img.shields.io/badge/Portfolio-vanshcz.online-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=161b22" />
-</a>
-
+<img src="https://img.icons8.com/fluency/96/domain.png" width="60" />
 <br>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=100&height=20&lines=Website" />
+</a>
+</td>
+<td align="center" width="20%">
 <a href="https://instagram.com/vanshcz">
-<img src="https://img.shields.io/badge/Instagram-@vanshcz-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161b22" />
-</a>
-
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60" />
 <br>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=E4405F&center=true&vCenter=true&width=100&height=20&lines=Instagram" />
+</a>
+</td>
+<td align="center" width="20%">
 <a href="https://github.com/vanshcz">
-<img src="https://img.shields.io/badge/GitHub-vanshcz-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" />
-</a>
-
+<img src="https://img.icons8.com/fluency/96/github.png" width="60" />
 <br>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=e6edf3&center=true&vCenter=true&width=100&height=20&lines=GitHub" />
+</a>
+</td>
+<td align="center" width="20%">
 <a href="https://t.me/itsukiarai">
-<img src="https://img.shields.io/badge/Telegram-@botsarefather-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161b22" />
+<img src="https://img.icons8.com/fluency/96/telegram-app.png" width="60" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=26A5E4&center=true&vCenter=true&width=100&height=20&lines=Telegram" />
 </a>
+</td>
+<td align="center" width="20%">
+<a href="mailto:vanshvx1@gmail.com">
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2000&pause=1000&color=EA4335&center=true&vCenter=true&width=100&height=20&lines=Gmail" />
+</a>
+</td>
+</tr>
+</table>
 
 <br>
-
-<a href="mailto:vanshvx1@gmail.com">
-<img src="https://img.shields.io/badge/Email-vanshvx1@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" />
-</a>
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -939,12 +600,6 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=400&height=20&lines=I+love+connecting+with+people!" />
-
-<br><br>
-
-<a href="https://www.buymeacoffee.com/vanshcz">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0d1117" />
-</a>
 
 <br><br>
 
