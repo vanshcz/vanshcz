@@ -156,67 +156,15 @@
 
 <br><br>
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=vanshcz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=e6edf3&ring_color=58a6ff&include_all_commits=true&count_private=true&custom_title=vanshcz%27s%20GitHub%20Stats" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vanshcz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="100%" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshcz&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" width="320" />
+<!-- Using streak stats (more reliable) -->
+<img src="https://streak-stats.demolab.com?user=vanshcz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="700" />
 
 <br><br>
 
+<!-- GitHub Trophies (usually works) -->
 <img src="https://github-profile-trophy.vercel.app/?username=vanshcz&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" width="100%" />
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+METRICS+%26+INSIGHTS" alt="Metrics" />
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshcz&theme=github_dark" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshcz&theme=github_dark" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshcz&theme=github_dark" width="100%" />
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%92%A1+RANDOM+DEV+QUOTE" alt="Quote" />
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" />
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
